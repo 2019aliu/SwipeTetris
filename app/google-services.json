@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050860497183",
+    "firebase_url": "https://fortylines-f21e6.firebaseio.com",
+    "project_id": "fortylines-f21e6",
+    "storage_bucket": "fortylines-f21e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050860497183:android:9d9519eb0b432c5d",
+        "android_client_info": {
+          "package_name": "edu.tjhsst.fortylines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050860497183-m9laja81a9mtfiihtad0g6r8e4t8ndec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.tjhsst.fortylines",
+            "certificate_hash": "0e286eb530cf445500d0ca693f16910fcff49667"
+          }
+        },
+        {
+          "client_id": "1050860497183-g7b1eaq1v7cc06mqqf3dfa5gsf5p80p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-S5Ggj6wMdHgPPSrICQSqI_JZIbMyHf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050860497183-g7b1eaq1v7cc06mqqf3dfa5gsf5p80p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
